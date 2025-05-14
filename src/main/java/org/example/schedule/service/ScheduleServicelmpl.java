@@ -45,9 +45,9 @@ public class ScheduleServicelmpl implements ScheduleService {
     }
 
     @Override
-    public ScheduleResponseDto findMemoById(Long password) {
+    public ScheduleResponseDto findSchedulesById(Long id) {
 
-        Schedule memoByIdOrElseThrow = scheduleRepository.findMemoByIdOrElseThrow(password);
+        Schedule memoByIdOrElseThrow = scheduleRepository.findMemoByIdOrElseThrow(id);
 
         return new ScheduleResponseDto(memoByIdOrElseThrow);
     }

@@ -37,7 +37,7 @@ public class ScheduleControoller {
 
     @GetMapping("/{id}")
     public ResponseEntity<ScheduleResponseDto> findMemoById(@PathVariable Long id){
-        return new ResponseEntity<>(scheduleService.findMemoById(id),HttpStatus.OK);
+        return new ResponseEntity<>(scheduleService.findSchedulesById(id),HttpStatus.OK);
     }
 
     @PutMapping("/{id}")
