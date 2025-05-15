@@ -19,4 +19,4 @@
 
 
 ##도전과제 ERD
-![ERD2](https://erd-cloud.s3.amazonaws.com/upload/EmaLDtDg9vgnFssgn/amFoS05IUzJQaUMzVzVuYnFfZmh1b1dzQVFaTkRKYU54dG0ucG5n)
+![Image](https://github.com/user-attachments/assets/dc95feed-250f-456e-a3e0-27c5aac1e429)
