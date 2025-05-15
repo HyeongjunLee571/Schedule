@@ -13,10 +13,10 @@
 
 
 ##필수과제 ERD
-![ERD](https://erd-cloud.s3.amazonaws.com/upload/EmaLDtDg9vgnFssgn/REZrWFJoWXlDRXF0YXlZOEtfSDJvYlpKZVdmQXZZN0RGOWsucG5n)
+![ERD1](./C:\Users\user\Desktop/ERD1.png)
 
 
 
 
 ##도전과제 ERD
-![ERD](https://erd-cloud.s3.amazonaws.com/upload/EmaLDtDg9vgnFssgn/amFoS05IUzJQaUMzVzVuYnFfZmh1b1dzQVFaTkRKYU54dG0ucG5n)
+![ERD2](https://erd-cloud.s3.amazonaws.com/upload/EmaLDtDg9vgnFssgn/amFoS05IUzJQaUMzVzVuYnFfZmh1b1dzQVFaTkRKYU54dG0ucG5n)
