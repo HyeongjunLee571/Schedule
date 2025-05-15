@@ -13,7 +13,7 @@
 
 
 ##필수과제 ERD
-![ERD1](./C:\Users\user\Desktop/ERD1.png)
+![Image](https://github.com/user-attachments/assets/dc95feed-250f-456e-a3e0-27c5aac1e429)
 
 
 
